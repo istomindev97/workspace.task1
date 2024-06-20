@@ -1,0 +1,22 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "Browser based game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/istomindev97/workspace.task1.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "i.istomin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/istomindev97/workspace.task1/issues"
+  },
+  "homepage": "https://github.com/istomindev97/workspace.task1#readme"
+}
